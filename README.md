@@ -11,7 +11,7 @@
 - 📫 How to reach me deep814187@gmail.com
 - 🌐 My Website : https://deep-patel-portfolio.netlify.app/
 - 📌 Scroll down to see my **Pinned Repositories**.
-<p> I have a solid expertise in object oriented programming in Java. As a core programmer, I love taking challanges and solving problems using Data structure and Algorithm </p> 
+<p> I have a solid expertise in object oriented programming in Java. As a core programmer, I love taking challanges and solving problems using Data structure and Algorithm. </p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deep-patel-se/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeppatel" height="30" width="40" /></a>
