@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning from [Oracle](https://www.oracle.com/java/technologies/), [Leetcode](https://leetcode.com/), [GeeksForGeeks](https://www.geeksforgeeks.org), [MySQL](https://dev.mysql.com/), [Coursera](https://www.coursera.org/), and [AWS](https://aws.amazon.com/).
 - 🤝🏻 I'm open for collaborations in **Software Development Engineer** , **Web Development**, **Java**, **Android** and **Desktop Application** domains.
 - 📫 How to reach me deep814187@gmail.com
-- 🌐 My Website : https://deep-patel-portfolio.netlify.app/
+- 🌐 My Portfolio : https://deep-patel-portfolio.netlify.app/
 - 📌 Scroll down to see my **Pinned Repositories**.
 <p> I have a solid expertise in object oriented programming in Java. As a core programmer, I love taking challanges and solving problems using Data structure and Algorithm. </p> 
 <h3 align="left">Connect with me:</h3>
