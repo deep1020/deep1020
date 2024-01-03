@@ -7,7 +7,7 @@
 
 - 🎓 **I am pursuing my Master's in Computer Science from California State University, Los Angeles**.
 - 🌱 I'm currently learning from [Oracle](https://www.oracle.com/java/technologies/), [Leetcode](https://leetcode.com/), [GeeksForGeeks](https://www.geeksforgeeks.org), [MySQL](https://dev.mysql.com/), [Coursera](https://www.coursera.org/), and [AWS](https://aws.amazon.com/).
-- 🤝🏻 I'm open for collaborations in **Software Development Engineer** , **Web Development**, **Java**, **Android** and **Desktop Application** domains.
+- 🤝🏻 I'm open for collaborations in **Software Development Engineer** , **Web Development**, **Java Backend Engineer**, **Android** and **Desktop Application** domains.
 - 📫 How to reach me deep814187@gmail.com
 - 🌐 My Portfolio : https://deep-patel-portfolio.netlify.app/
 - 📌 Scroll down to see my **Pinned Repositories**.
