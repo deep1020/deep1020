@@ -8,7 +8,7 @@
 - 🎓 **I completed my graduation with MS in Computer Science from California State University, Los Angeles**.
 - 🌱 I'm currently learning from [Oracle](https://www.oracle.com/java/technologies/), [Leetcode](https://leetcode.com/), [GeeksForGeeks](https://www.geeksforgeeks.org), [MySQL](https://dev.mysql.com/), [Coursera](https://www.coursera.org/), and [AWS](https://aws.amazon.com/).
 - 🤝🏻 I'm open for collaborations in **Software Development Engineer** , **Web Development**, **Java Backend Engineer**, **Android** and **Desktop Application** domains.
-- 💬 Ask me about **Data Structure and Algorithm**, **Object Oriented Programming in Java**, **Spring Web Framework**, and **SQL** .
+- 💬 Ask me about **Data Structure and Algorithm**, **Object Oriented Programming (OOP)**, **Java**, **Spring Web Framework**, **REST APIs**, and **SQL** .
 - 📫 Reach me at deep814187@gmail.com
 - 🌐 My Portfolio : https://deep-patel-portfolio.netlify.app/
 - 📌 Scroll down to see my **Pinned Repositories**.
