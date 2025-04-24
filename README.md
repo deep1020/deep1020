@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 - 🤝🏻 I'm open for collaborations in **Software Development Engineer** , **Web Development**, **Java Backend Engineer**, **Android** and **Desktop Application** domains.
-- 🎓 I have earned Master's degree in Computer Science from California State University, Los Angeles.
+- 🎓 I hold a Master's degree in Computer Science from California State University, Los Angeles.
 - 🌱 I'm currently learning from [Oracle](https://www.oracle.com/java/technologies/), [Spring Boot](https://spring.io/guides/), [Leetcode](https://leetcode.com/), [GeeksForGeeks](https://www.geeksforgeeks.org), [MySQL](https://dev.mysql.com/), [Coursera](https://www.coursera.org/), and [AWS](https://aws.amazon.com/).
 - 💬 Ask me about **Data Structure and Algorithm**, **Object Oriented Programming (OOP)**, **Java**, **Spring Web Framework**, **REST APIs**, and **SQL** .
 - 📫 Reach me at deep814187@gmail.com
